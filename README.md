@@ -1,16 +1,17 @@
 # mywallet
 
-A new Flutter project.
+Dart and Flutter Week 7 assignment. Mobile Money App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is building a simple user interface.
 
-A few resources to get you started if this is your first Flutter project:
+To run this Dart and Flutter project from GitHub, you'll need to:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository: Download the project files to your local machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ensure Flutter SDK is installed: Verify you have the Flutter SDK set up and configured correctly.
+
+Get dependencies: Navigate to the project directory in your terminal and run flutter pub get.
+
+Run the application: Execute flutter run to launch the app on a connected device or emulator.
